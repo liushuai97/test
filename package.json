@@ -11,8 +11,8 @@
   "dependencies": {
     "karma": "^4.4.1",
     "karma-coverage": "^2.0.1",
-    "karma-webpack": "^4.0.2",
-    "webpack": "^4.41.2"
+    "karma-webpack": "^5.0.0",
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "karma-chrome-launcher": "^3.1.0",
